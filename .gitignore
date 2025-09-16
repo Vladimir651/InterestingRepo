@@ -2,4 +2,8 @@
 
 *.bmp
 *.jpg
+#folders
+
+test/
+plohayapapka/
 
